@@ -12,7 +12,7 @@ const friends = [{
     ]
 },{
     name:   "Wonder Woman",
-    photo:  "",
+    photo:  "https://nerdist.com/wp-content/uploads/2019/12/ww1984-1200x676.jpg",
     scores: [
         5,2,3,4,1,3,2,5,1,4
     ]
