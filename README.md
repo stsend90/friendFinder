@@ -1,13 +1,14 @@
 # Friend Finder - Node and Express Servers
 
-### Overview
+## Overview
 
 In need of a friend? Oh boy, time to get on our app, and find that special someone. After filling out a quick survey, our friend-matching algorithm will pair you with an individual in our network.
 
-## Live Link
- - hhttps://agile-cove-62649.herokuapp.com/
+### Live Link
 
-## Usage
+- [Friend-Finder](https://agile-cove-62649.herokuapp.com/)
+
+### Usage
 
 ![Screenshot1](img/hwshots1.png)
 ------------------------------------------------------
