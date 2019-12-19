@@ -16,6 +16,18 @@ const friends = [{
     scores: [
         5,2,3,4,1,3,2,5,1,4
     ]
+},{
+    name:   "Green Lantern",
+    phote:  "https://img.cinemablend.com/filter:scale/quill/d/e/7/b/5/8/de7b58303ec26a7763d870847c2a274ef417db29.jpg?mw=600",
+    scores: [
+        2,4,5,1,3,1,2,4,5,1
+    ]
+},{
+    name:   "The Flash",
+    phote:  "https://tvguide1.cbsistatic.com/mediabin/showcards/tvshows/600000-649999/644014-flash3.png",
+    scores: [
+        1,1,3,4,5,6,2,4,5,1
+    ]
 }];
 
 module.exports = friends;
