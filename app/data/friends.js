@@ -18,7 +18,7 @@ const friends = [{
     ]
 },{
     name:   "Green Lantern",
-    phote:  "https://img.cinemablend.com/filter:scale/quill/d/e/7/b/5/8/de7b58303ec26a7763d870847c2a274ef417db29.jpg?mw=600",
+    phote:  "https://img.cinemablend.https://img1.looper.com/img/gallery/the-untold-truth-of-green-lanterns-power-ring/intro-1569864682.jpg/filter:scale/quill/d/e/7/b/5/8/de7b58303ec26a7763d870847c2a274ef417db29.jpg?mw=600",
     scores: [
         2,4,5,1,3,1,2,4,5,1
     ]
