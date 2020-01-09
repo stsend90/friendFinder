@@ -6,7 +6,7 @@ In need of a friend? Oh boy, time to get on our app, and find that special someo
 
 ### Live Link
 
-- [Friend-Finder](https://agile-cove-62649.herokuapp.com/)
+- [Friend-Finder](https://calm-bayou-75933.herokuapp.com/)
 
 ### Usage
 
